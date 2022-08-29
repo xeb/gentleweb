@@ -1,0 +1,5 @@
+creds.sh
+geckodriver*
+chromedriver*
+*.png
+venv/

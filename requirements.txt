@@ -1,0 +1,4 @@
+selenium
+fire
+termcolor
+webdriver-manager
